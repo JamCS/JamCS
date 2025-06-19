@@ -1,26 +1,44 @@
-<p align="center">
-  <img src="https://i.imgur.com/WkS14OH.gif" width="100%" alt="banner de código binário">
-</p>
+<div align="center" style="background-color:#0d1117; padding: 30px; border-radius: 10px; color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Jamilson!+%F0%9F%91%8B;Apaixonado+por+tecnologia+e+em+constante+evolu%C3%A7%C3%A3o!" alt="Typing SVG" /></h1>
+<h1>👋 Olá, eu sou o Jamilson!</h1>
+<p><em>Full Stack em construção 🚧 | Apaixonado por tecnologia, cibersegurança e bons desafios</em></p>
+
+</div>
 
 ---
 
 ### 💻 Sobre mim
 
-- 👨‍🎓 23 anos | 3º semestre de **Análise e Desenvolvimento de Sistemas**
-- 🌐 Conhecimento em **HTML/CSS**, **Java** e noções de **SQL**
-- 🌍 Iniciante em **Redes de Computadores** e **Cibersegurança**
-- 🚀 Projetos front-end e atualmente criando um **Gerenciador de Notas com Java**
-- 🤓 Sempre estudando, curioso e muito dedicado!
+- 🧒 23 anos | 3º semestre de **Análise e Desenvolvimento de Sistemas**
+- 🧠 Conhecimento em **HTML**, **CSS**, **Java** e noções de **SQL**
+- 🌐 Iniciando em **Redes de Computadores**
+- 🔐 Explorando o universo da **Cibersegurança**
+- 🛠️ Já desenvolvi projetos front-end e agora estou trabalhando num **Gerenciador de Notas em Java**
 
 ---
 
-### 🚧 Tecnologias em aprendizado
+### 🚀 Tecnologias que estou aprendendo
 
-```plaintext
-🧱 HTML / CSS      ✅
-🧠 Java            ✅
-💾 SQL             🔄
-📡 Redes           🌱
-🛡️ Cibersegurança  🌱
+| Tecnologia        | Status        |
+|-------------------|----------------|
+| 💻 HTML/CSS        | ✅ Confiante     |
+| ☕ Java            | ✅ Em prática   |
+| 🗃️ SQL             | 🧪 Estudando     |
+| 🌐 Redes           | 🚀 Iniciando     |
+| 🔐 Cibersegurança  | 🌱 Explorando    |
+
+---
+
+### ⚙️ Projetos em Destaque
+
+- **Portfólios com HTML/CSS**: Simples, responsivos e com carinho no visual
+- **Gerenciador de Notas (Java + Swing)**: Controle de usuários, notas, presença e login
+
+---
+
+### 🧠 Minha filosofia
+
+> “A jornada de mil linhas de código começa com um `Hello, World!`” 💬
+
+- ✨ Curioso, dedicado e sempre pronto pra aprender
+- 🤝 Gos

@@ -1,69 +1,26 @@
-<h1 align="center">Fala, pessoal! 👋 Eu sou o Jam!</h1>
-
 <p align="center">
-  💻 Apaixonado por tecnologia, curioso por natureza e sempre pronto para aprender mais!
+  <img src="https://i.imgur.com/WkS14OH.gif" width="100%" alt="banner de código binário">
 </p>
 
----
-
-### 👨‍💻 Quem sou eu?
-
-- 🧒 Jovem de 23 anos com o sonho de atuar na indústria de tecnologia como desenvolvedor **Full Stack**  
-- 📚 Cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**  
-- 🔒 Sonho em trabalhar com **Cibersegurança** no futuro  
-- 🧠 Sempre disposto a aprender, crescer e me desafiar!
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Jamilson!+%F0%9F%91%8B;Apaixonado+por+tecnologia+e+em+constante+evolu%C3%A7%C3%A3o!" alt="Typing SVG" /></h1>
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo
+### 💻 Sobre mim
 
-| Tecnologia | Nível |
-|------------|-------|
-| HTML/CSS   | ✅ Projetos simples já feitos! |
-| Java       | ✅ Desenvolvendo projetos reais (ex: gerenciador de notas) |
-| SQL        | 🧪 Em aprendizado |
-| Redes de Computadores | 🚀 Iniciando |
-| Cibersegurança | 🔐 Começando a explorar |
+- 👨‍🎓 23 anos | 3º semestre de **Análise e Desenvolvimento de Sistemas**
+- 🌐 Conhecimento em **HTML/CSS**, **Java** e noções de **SQL**
+- 🌍 Iniciante em **Redes de Computadores** e **Cibersegurança**
+- 🚀 Projetos front-end e atualmente criando um **Gerenciador de Notas com Java**
+- 🤓 Sempre estudando, curioso e muito dedicado!
 
 ---
 
-### 💼 Projetos que desenvolvi
+### 🚧 Tecnologias em aprendizado
 
-📌 **Front-end com HTML/CSS**  
-- Páginas simples e responsivas como portfólios e landing pages
-
-📌 **Gerenciador de Notas em Java**  
-- Projeto com Swing e conexão com banco de dados  
-- Permite cadastro de alunos, professores, login e controle de notas e presença
-
----
-
-### 💡 Um pouco da minha vibe
-
-> "A jornada de mil linhas de código começa com um `Hello, World!`" 😉
-
-- 🌱 Estou evoluindo um passo de cada vez
-- 💬 Curto trocar ideia sobre tecnologia e aprender com os outros
-- 💪 Esforçado e comprometido com tudo que me proponho a fazer
-
----
-
-### 🖼️ Um toque de código e tecnologia
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
-
-### 📫 Como me encontrar
-
-- 📧 **Email:** jamilsoncnn777@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/jamilson-cardoso-dos-santos-33526a332](https://www.linkedin.com/in/jamilson-cardoso-dos-santos-33526a332/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamilsoncardoso&style=flat-square&color=blue" alt="Visualizações de perfil"/>
-</p>
+```plaintext
+🧱 HTML / CSS      ✅
+🧠 Java            ✅
+💾 SQL             🔄
+📡 Redes           🌱
+🛡️ Cibersegurança  🌱

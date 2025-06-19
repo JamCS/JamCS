@@ -45,7 +45,6 @@
 ### 🖼️ Um toque de código e tecnologia
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="Programador animado" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Digitando terminal" />
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Código rodando"
 </p>

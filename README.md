@@ -46,7 +46,6 @@
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="Programador animado" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Digitando terminal" />
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260" alt="Modo hacker" />
 </p>
 

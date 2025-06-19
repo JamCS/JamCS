@@ -1,4 +1,4 @@
-
+<!-- TÍTULO DIGITADO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Jamilson!;Full+Stack+em+Constru%C3%A7%C3%A3o+%F0%9F%92%BB;Apaixonado+por+tecnologia+e+cyberseguran%C3%A7a+%F0%9F%94%92" alt="Typing SVG" />
 </p>
@@ -46,12 +46,8 @@
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="Programador animado" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260" alt="Modo hacker" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" alt="Deploy" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Código rodando" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Digitando terminal" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Código rodando"
 </p>
 
 ---

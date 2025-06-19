@@ -1,57 +1,78 @@
-<div align="center" style="background-color:#0d1117; padding: 30px; border-radius: 10px; color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h1>👋 Olá, eu sou o Jamilson!</h1>
-<p><em>Full Stack em construção 🚧 | Apaixonado por tecnologia, cibersegurança e bons desafios</em></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Jamilson!;Full+Stack+em+Constru%C3%A7%C3%A3o+%F0%9F%92%BB;Apaixonado+por+tecnologia+e+cyberseguran%C3%A7a+%F0%9F%94%92" alt="Typing SVG" />
+</p>
 
-</div>
+<div align="center" style="background-color:#0d1117; padding: 30px; border-radius: 10px; color: #c9d1d9; font-family: 'Segoe UI', 'Comic Sans MS', Tahoma, Geneva, Verdana, sans-serif;">
 
 ---
 
-### 💻 Sobre mim
+### 👨‍💻 Sobre mim
 
 - 🧒 23 anos | 3º semestre de **Análise e Desenvolvimento de Sistemas**
-- 🧠 Conhecimento em **HTML**, **CSS**, **Java** e noções de **SQL**
-- 🌐 Iniciando em **Redes de Computadores**
+- 👨‍💻 Curioso por natureza e com muita vontade de crescer
+- 💻 Conhecimento em **HTML**, **CSS**, **Java** e noções de **SQL**
+- 📡 Iniciante em **Redes de Computadores**
 - 🔐 Explorando o universo da **Cibersegurança**
-- 🛠️ Já desenvolvi projetos front-end e agora estou trabalhando num **Gerenciador de Notas em Java**
+- 🛠️ Já desenvolvi alguns projetos front-end e agora estou criando um **Gerenciador de Notas em Java**
+- 🎯 Sonho em trabalhar com **Cybersegurança**
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo
+### ⚙️ Tecnologias que estou aprendendo
 
-| Tecnologia        | Status        |
-|-------------------|----------------|
-| 💻 HTML/CSS        | ✅ Confiante     |
-| ☕ Java            | ✅ Em prática   |
-| 🗃️ SQL             | 🧪 Estudando     |
-| 🌐 Redes           | 🚀 Iniciando     |
-| 🔐 Cibersegurança  | 🌱 Explorando    |
+| 💻 Tecnologia        | 🔧 Nível atual        |
+|----------------------|------------------------|
+| HTML/CSS             | ✅ Confiante           |
+| Java                 | ✅ Em prática          |
+| SQL                  | 🧪 Em aprendizado      |
+| Redes de Computadores| 🚀 Iniciando           |
+| Cibersegurança       | 🌱 Explorando          |
 
 ---
 
-### ⚙️ Projetos em Destaque
+### 💼 Projetos em Destaque
 
-- **Portfólios com HTML/CSS**: Simples, responsivos e com carinho no visual
-- **Gerenciador de Notas (Java + Swing)**: Controle de usuários, notas, presença e login
+📌 **Mini sites em HTML/CSS**  
+- Páginas simples, responsivas e com foco visual
+
+📌 **Gerenciador de Notas em Java (Swing + JDBC)**  
+- Login, cadastro, controle de usuários, notas e presença  
+- Backend com Java e banco relacional
+
+---
+
+### 🖼️ Um toque de código e tecnologia
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="Programador animado" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Digitando terminal" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260" alt="Modo hacker" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" alt="Deploy" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Código rodando" />
+</p>
 
 ---
 
 ### 🧠 Minha filosofia
 
-> “A jornada de mil linhas de código começa com um `Hello, World!`” 💬
-
-- ✨ Curioso, dedicado e sempre pronto pra aprender
-- 🤝 Gosto de colaborar, entender código e resolver problemas juntos
+> “A jornada de mil linhas de código começa com um `Hello, World!`” 💬  
+> Nunca paro de estudar. Sempre busco entender como as coisas funcionam por trás dos bastidores. 💡
 
 ---
 
-### 📫 Contato
+### 📫 Como me encontrar
 
 - 📧 **Email:** jamilsoncnn777@gmail.com  
-- 💼 **LinkedIn:** [Jamilson Cardoso dos Santos](https://www.linkedin.com/in/jamilson-cardoso-dos-santos-33526a332/)
+- 💼 **LinkedIn:** [linkedin.com/in/jamilson-cardoso-dos-santos-33526a332](https://www.linkedin.com/in/jamilson-cardoso-dos-santos-33526a332/)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jamilsoncardoso&style=flat-square&color=blue" alt="Visualizações de perfil"/>
 </p>
+
+</div>

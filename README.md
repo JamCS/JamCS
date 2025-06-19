@@ -41,4 +41,17 @@
 > “A jornada de mil linhas de código começa com um `Hello, World!`” 💬
 
 - ✨ Curioso, dedicado e sempre pronto pra aprender
-- 🤝 Gos
+- 🤝 Gosto de colaborar, entender código e resolver problemas juntos
+
+---
+
+### 📫 Contato
+
+- 📧 **Email:** jamilsoncnn777@gmail.com  
+- 💼 **LinkedIn:** [Jamilson Cardoso dos Santos](https://www.linkedin.com/in/jamilson-cardoso-dos-santos-33526a332/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jamilsoncardoso&style=flat-square&color=blue" alt="Visualizações de perfil"/>
+</p>

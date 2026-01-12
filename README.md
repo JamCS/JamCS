@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🧒 24 anos | 3º semestre de **Análise e Desenvolvimento de Sistemas**
+- 🧒 24 anos | 4º semestre de **Análise e Desenvolvimento de Sistemas**
 - 👨‍💻 Curioso por natureza e com muita vontade de crescer
 - 💻 Conhecimento em **HTML**, **CSS**, **Java** e noções de **SQL**
 - 📡 Iniciante em **Redes de Computadores**

@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Jamilson!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;React%2C+Next.js+e+SvelteKit;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80"
@@ -193,4 +193,4 @@ Busco entender como as tecnologias funcionam por trás dos bastidores, evoluindo
 <p align="center">
   Obrigado por visitar meu perfil! 🚀
 </p>
-```
+
